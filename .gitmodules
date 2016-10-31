@@ -1,0 +1,3 @@
+[submodule "Albite.Core"]
+	path = Albite.Core
+	url = https://github.com/dumbledore/Albite.Core.git
