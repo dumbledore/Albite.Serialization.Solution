@@ -1,0 +1,6 @@
+# VS 2015 project volatile files
+.vz
+
+# VS 2012-2013 project volatile files
+*.suo
+*.user
