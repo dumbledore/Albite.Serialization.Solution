@@ -1,3 +1,6 @@
 [submodule "Albite.Core"]
 	path = Albite.Core
 	url = https://github.com/dumbledore/Albite.Core.git
+[submodule "Albite.Serialization"]
+	path = Albite.Serialization
+	url = https://github.com/dumbledore/Albite.Serialization.git
